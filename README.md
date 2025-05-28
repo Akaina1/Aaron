@@ -36,6 +36,7 @@ Software is more than just a job for me, in my free time I love to play and buil
 <a href="mailto:aaronhdost@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-000000?style=plastic&logo=gmail" alt="Email" />
 </a>
+</br>
 <a href="www.linkedin.com/in/aarondost" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=plastic&logo=linkedin" alt="LinkedIn" />
 </a>
