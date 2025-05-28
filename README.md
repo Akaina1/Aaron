@@ -25,10 +25,10 @@ Software is more than just a job for me, in my free time I love to play and buil
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoSize=auto&color=%23f0b8f5)
 
 ### Other:
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=FFFFFF)
-![Payload CMS](https://img.shields.io/badge/-Payload_CMS-000000?style=flat&logo=payloadcms&logoColor=FFFFFF)
-![Tauri](https://img.shields.io/badge/-Tauri-000000?style=flat&logo=tauri&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoSize=auto&color=%23f0b8f5)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoSize=auto&color=%23f0b8f5)
+![Payload CMS](https://img.shields.io/badge/-Payload_CMS-000000?style=flat&logo=payloadcms&logoSize=auto&color=%23f0b8f5)
+![Tauri](https://img.shields.io/badge/-Tauri-000000?style=flat&logo=tauri&logoSize=auto&color=%23f0b8f5)
 
 ---
 
